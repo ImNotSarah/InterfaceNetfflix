@@ -8,6 +8,8 @@
         <item name="colorSecondary">@color/secundaria</item>
         <item name="colorOnSecondary">@color/preto</item>
 
+        <item name="android:statusBarColor">?attr/colorPrimary</item>
+
         <!-- Customizando Interface Netflix. -->
         <item name="android:windowBackground">@color/fundo</item>
 
